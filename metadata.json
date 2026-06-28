@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Remix: Remix: Remix: Remix: Remix: Remix: Remix: Remix: Remix: Remix: Remix: Remix: Remix: Remix: Aquaculture Operations Dashboard",
+  "description": "Comprehensive operations control system for aquaculture tracking with financial P\u0026Ls, water quality parameters, hatching logs, stock counts, and AI-enabled diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
